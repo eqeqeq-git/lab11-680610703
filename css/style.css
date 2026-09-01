@@ -1,4 +1,7 @@
 /* override placeholder color of bootstrap */
+* {
+  font-family: "Prompt", sans-serif;
+}
 
 .form-control::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
